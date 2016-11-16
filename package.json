@@ -1,0 +1,24 @@
+{
+  "name": "collectioneer",
+  "version": "1.0.0",
+  "description": "Simple nodejs stats publisher",
+  "main": "collectioneer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joarc/collectioneer.git"
+  },
+  "author": "Joar Classon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joarc/collectioneer/issues"
+  },
+  "homepage": "https://github.com/joarc/collectioneer#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.78.0"
+  }
+}
